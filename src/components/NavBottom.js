@@ -4,13 +4,13 @@ import React from "react";
 
 function NavBottom() {
   const handleDownload = (event) => {
-    location.replace('https://wa.me/6281222226880?text=Halo..Marketing West Vista, boleh kirimkan brosur Apartemen ini ? Terima kasih')
+    location.replace('https://wa.me/6281222226880?text=Halo..Marketing Wisteria, boleh kirimkan brosur Perumahan ini ? Terima kasih')
   };
   const handleLokasi = (event) => {
-    location.replace('https://wa.me/6281222226880?text=Halo..Marketing West Vista, boleh tahu alamat lokasi apartemen ini ? Terima kasih')
+    location.replace('https://wa.me/6281222226880?text=Halo..Marketing Wisteria, boleh tahu alamat lokasi Perumahan ini ? Terima kasih')
   };
   const handleWA = (event) => {
-    location.replace('https://wa.me/6281222226880?text=Halo..Marketing West Vista, saya berminat dengan produk ini, boleh info lengkap? Terima kasih')
+    location.replace('https://wa.me/6281222226880?text=Halo..Marketing Wisteria, saya berminat dengan produk ini, boleh info lengkap? Terima kasih')
   }
   return (
     <Paper
